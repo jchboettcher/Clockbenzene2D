@@ -9,6 +9,7 @@ Some of the molecules shown do exist and have been synthesized in research labs,
 ### NOTES
 * Due to symmetry, some times yield identical molecules.
 * Logistics of the clock itself are given in a description at the bottom of the display window.
+* See the 3D version at https://github.com/jchboettcher/Clockbenzene3D.
 
 
 ###### Created by Jack Boettcher, 2020.
